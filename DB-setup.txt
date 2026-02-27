@@ -1,0 +1,16 @@
+
+SQL Databases
+1. بتستخدم  relational model
+2. Fixed/Predefined Schema
+3. query language: Standardized SQL
+4. scalability: Typically Vertical scaling
+5. data integrity: ACID compliant, strict data consistency
+6. use cases: transactional systems , complex queries
+
+NoSQL databases
+1. doesn’t follow relational model
+2. Flexible schema
+3. query language: Varied, specific to the database type
+4. scalability: horizontal scaling for distributive environments
+5. data integrity: eventual consistency , varying data consistency
+6. use cases: big data, real-time analytics , flexible schemas
